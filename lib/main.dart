@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
         statusBarColor: Colors.transparent,
         systemNavigationBarColor: Colors.redAccent,
-        systemNavigationBarIconBrightness: Brightness.dark));
+        systemNavigationBarIconBrightness: Brightness.light));
     return MultiProvider(
       providers: [
         ChangeNotifierProvider.value(
