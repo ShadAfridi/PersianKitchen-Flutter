@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597539685679",
+    "firebase_url": "https://persian-kitchen.firebaseio.com",
+    "project_id": "persian-kitchen",
+    "storage_bucket": "persian-kitchen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597539685679:android:59362570792ce20eb58dda",
+        "android_client_info": {
+          "package_name": "com.example.persian_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597539685679-3k7bocvuqtim0o9ucki06pchb6oel0mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.persian_kitchen",
+            "certificate_hash": "c35bedc553a4a5ad0ceb5f5ea5759242b5cb0b3c"
+          }
+        },
+        {
+          "client_id": "597539685679-i4u5bi0p3aktapm0vle0fhrbpjlrenvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5kmHHl97G1uPzm6nUZztV-w2-BFdaR-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597539685679-i4u5bi0p3aktapm0vle0fhrbpjlrenvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
