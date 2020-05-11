@@ -20,10 +20,9 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
-      statusBarColor: Colors.transparent,
-      systemNavigationBarColor: Colors.redAccent,
-      systemNavigationBarIconBrightness: Brightness.dark,
-    ));
+        statusBarColor: Colors.transparent,
+        systemNavigationBarColor: Colors.redAccent,
+        systemNavigationBarIconBrightness: Brightness.dark));
     return MultiProvider(
       providers: [
         ChangeNotifierProvider.value(
